@@ -4,6 +4,6 @@
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
-    "@reach/router": "reach/router#2675f56127c921474b275ff91fbdad8ec33cbd74"
+    "@reach/router": "reach/router#d2c9ad06715c9d48c2d16f55f7cd889b626d2521"
   }
 }
